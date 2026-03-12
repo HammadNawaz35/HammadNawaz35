@@ -19,13 +19,41 @@
 ---
 
 ## 💫 About Me
-🎓 **Bachelor of Science in Computer Science (BSCS)**
-📱 Android Developer (Java & Kotlin)
-🌐 Front-End Developer (React, TypeScript, Vite)
-🧠 Passionate about modern technologies & frameworks
-💡 Strong analytical & problem-solving skills
-🚀 Focused on building scalable and user-friendly applications
-🔥 Always improving. Always building.
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Bachelor of Science in Computer Science (BSCS)</strong></td>
+  </tr>
+  <tr>
+    <td>📱</td>
+    <td><strong>Android Developer</strong> — Java & Kotlin</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Front-End Developer</strong> — React, TypeScript, Vite</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td>Passionate about modern technologies & frameworks</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>Strong analytical & problem-solving skills</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td>Focused on building scalable and user-friendly applications</td>
+  </tr>
+  <tr>
+    <td>🔥</td>
+    <td>Always improving. Always building.</td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td>Based in <strong>Pakistan</strong></td>
+  </tr>
+</table>
 
 ---
 
