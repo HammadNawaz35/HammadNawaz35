@@ -171,6 +171,33 @@
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/💬_Chat_App-Conferencing_App-7B2FBE?style=for-the-badge&labelColor=0D1117"/>
+      <br/><br/>
+      <b>Chatting & Conferencing App</b>
+      <br/><br/>
+      <sub>Real-time Android chat and video conferencing app with messaging, group calls, user authentication and Firebase backend</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/HammadNawaz35/Chatting-and-Conferencing-App">
+        <img src="https://img.shields.io/badge/📂_View_Repo-7B2FBE?style=for-the-badge&labelColor=0D1117"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💻 Tech Stack
+  </tr>
 </table>
 
 </div>
