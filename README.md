@@ -1,4 +1,13 @@
 <!-- PROFILE HEADER -->
+<div align="center">
+  <a href="https://github.com/HammadNawaz35">
+    <img src="https://avatars.githubusercontent.com/HammadNawaz35?v=4" 
+         width="130" 
+         style="border-radius:50%"
+         alt="Hammad Nawaz"/>
+  </a>
+</div>
+
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
   Hi I'm Hammad Nawaz
@@ -85,8 +94,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HammadNawaz35&color=00F7FF&style=flat-square&label=Profile+Views"/>
-</p>
+
 
 <p align="center"><i>"The best way to learn is to build."</i> 🚀</p>
